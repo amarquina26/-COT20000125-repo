@@ -1,2 +1,2 @@
-# -COT20000125-repo
+# COT20000125-repo
 lab6
